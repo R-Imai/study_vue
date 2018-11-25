@@ -23,4 +23,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## References
 
-https://qiita.com/iwathi/items/8f054d10590f32b438a4
+- https://qiita.com/iwathi/items/8f054d10590f32b438a4
+- https://qiita.com/tiwu_official/items/43dc554ec43dd951812a
